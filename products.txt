@@ -1,0 +1,38 @@
+[
+	{
+		"style": "Longboard 1",
+		"price": 1150,
+		"thumbnail": "https://i.pinimg.com/originals/89/84/0e/89840e158ac36a8bb0ae62a5d8cff9a4.jpg",
+		"id": 1
+	},
+	{
+		"style": "Longboard 2",
+		"price": 1200,
+		"thumbnail": "http://sc04.alicdn.com/kf/H32faba88c6474bbf87de9a2d85343d88H.jpg",
+		"id": 2
+	},
+	{
+		"style": "Longboard 3",
+		"price": 2100,
+		"thumbnail": "https://www.surfmarket.org/images/stories/virtuemart/product/bu_bear.jpg",
+		"id": 3
+	},
+	{
+		"style": "Longboard 4",
+		"price": 1500,
+		"thumbnail": "https://img.freepik.com/fotos-premium/tabla-surf-longboard-madera-retro-aislada-blanco-trazado-recorte-objeto-estilos-vintage_1484-2213.jpg?w=2000",
+		"id": 4
+	},
+	{
+		"style": "Longboard 5",
+		"price": 1250,
+		"thumbnail": "https://www.frussurf.com/pub/media/catalog/product/cache/1bee143e5c1d7daf0d32058630e8617f/l/o/longboard-walden-mega-magic-9-6-tuflite-c-tech_1.jpg",
+		"id": 5
+	},
+	{
+		"style": "Longboard 6",
+		"price": 1200,
+		"thumbnail": "https://parkersburgskateplaza.org/wp-content/uploads/2021/10/Las-13-mejores-marcas-de-tablas-de-surf-de-longboard.jpg",
+		"id": 6
+	}
+]
